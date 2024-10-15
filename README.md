@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amar Abdulla</h1>
 <h3 align="center">Information Systems Undergraduate | Finance & AI Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1282416/screenshots/2859710/media/b5dd6845c173e993240fafb24675e746.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarabdullaa" alt="amarabdullaa" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarabdullaa&label=Profile%20views&color=0e75b6&style=flat" alt="amarabdullaa" /> </p>
 
 - 🌱 I’m currently learning **HTML CSS JavaScript PHP Java C**
 
